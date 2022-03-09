@@ -1,1 +1,1 @@
-#part of the Bankist App
+# Bankist App (part of the app)
